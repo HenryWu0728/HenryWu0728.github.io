@@ -1,9 +1,9 @@
 # ZhuohengWu.github.io
 This is Zhuoheng Wu / Henry's personal website.
 
-# 你好，我是 Henri 👋 (Hi, I'm Henri)
+# 你好，我是 伍卓恒 👋 (Hi, I'm Henry)
 
-欢迎来到我的个人主页！我目前是武汉大学数学与统计学院的一名本科生（中法数学拔尖班），对纯粹数学和数学建模抱有浓厚的兴趣。
+欢迎来到我的个人主页！我目前是武汉大学数学与统计学院的一名本科生，就读于2024级中法数学拔尖班，对数学抱有浓厚的兴趣。
 
 ---
 
@@ -24,7 +24,7 @@ This is Zhuoheng Wu / Henry's personal website.
 离开书桌和黑板，我也喜欢记录生活和探索世界：
 
 - 📷 **摄影与摄像：** 常用设备 Sony A6000 与 DJI Action 5 Pro。热衷于拍摄星空延时摄影，并喜欢使用 Lightroom/Photoshop 进行 RAW 格式的色彩管理与后期处理。
-- 🎒 **特种兵旅行：** 喜欢规划高效率的周末旅行，偏爱芒市、腾冲等兼具自然风光与文化底蕴的小众目的地。
+- 🎒 **特种兵旅行：** 喜欢规划高效率的周末旅行。
 
 ---
 
@@ -33,4 +33,6 @@ This is Zhuoheng Wu / Henry's personal website.
 - 📧 **Email:** [2024302011099@whu.edu.cn]
 - 📝 **GitHub:** [@HenryWu0728](https://github.com/HenryWu0728)
 
-> *"Life is good for only two things, discovering mathematics and teaching mathematics."* — Siméon Denis Poisson
+> *"Life is good for only two things, discovering mathematics and teaching mathematics."*
+> 
+> — Siméon Denis Poisson
