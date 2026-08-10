@@ -6,8 +6,6 @@ My current interests are mainly in **algebra and related areas**, particularly *
 
 ## Mathematics
 
-At Wuhan University, I have completed or am currently studying courses including **Algebra I–III, Analysis I–III, Differential Manifolds**, and programming in Python. My mathematics GPA is **3.94/4.00**, ranked **1st** in my program.
-
 Recently, I have been studying algebraic number theory, algebraic geometry, and representation theory through courses and summer schools, including the **2026 CAS Algebra and Number Theory Summer School**. I have also worked with **Lean 4** and participated in the **2024 PKU AI for Mathematics Summer School**, where I received the **Special Prize**.
 
 ## Selected Awards
