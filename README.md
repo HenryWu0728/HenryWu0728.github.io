@@ -1,38 +1,30 @@
-# ZhuohengWu.github.io
-This is Zhuoheng Wu / Henry's personal website.
+# Zhuoheng Wu
 
-# 你好，我是 伍卓恒 👋 (Hi, I'm Henry)
+I am an undergraduate student in the **Sino-French Mathematics Program** at the School of Mathematics and Statistics, **Wuhan University** (2024–2028).
 
-欢迎来到我的个人主页！我目前是武汉大学数学与统计学院的一名本科生，就读于2024级中法数学拔尖班，对数学抱有浓厚的兴趣。
+My current interests are mainly in **algebra and related areas**, particularly **algebraic number theory, algebraic geometry, and representation theory**. I am also interested in formalized mathematics and the interaction between **AI and mathematical research**.
 
----
+## Mathematics
 
-## 🎓 关于我 (About Me)
+At Wuhan University, I have completed or am currently studying courses including **Algebra I–III, Analysis I–III, Differential Manifolds**, and programming in Python. My mathematics GPA is **3.94/4.00**, ranked **1st** in my program.
 
-- 🏫 **教育背景：** 华中师大一附中理科竞赛班毕业，现武大大二在读。
-- 📐 **学术焦点：** 深入学习高阶数学，包括**实分析、复分析、抽象代数**与**微分流形**。
-- 🏆 **竞赛经历：** 积极参与各类数学与建模竞赛，如 MCM/ICM（美赛）、全国大学生数学竞赛（CMC）以及丘成桐大学生数学竞赛。
-- 🗣️ **语言能力：** 正在精进法语，备考 B2，并致力于将其应用于阅读法国原版数学文献与日常学术交流。
+Recently, I have been studying algebraic number theory, algebraic geometry, and representation theory through courses and summer schools, including the **2026 CAS Algebra and Number Theory Summer School**. I have also worked with **Lean 4** and participated in the **2024 PKU AI for Mathematics Summer School**, where I received the **Special Prize**.
 
-## 🛠️ 技术栈与工具 (Skills & Tools)
+## Selected Awards
 
-- **学术排版：** 重度 LaTeX 用户（熟练制作 Beamer 幻灯片、学术简历及复杂公式推导文档）。
-- **编程与建模：** 熟练使用 Python 与 MATLAB 进行数据可视化、数值模拟（如多目标优化模型）及三维图形绘制。
+* **National First Prize**, Chinese Mathematics Competitions (CMC) Final, 2026
+* **Honorable Mention**, S.-T. Yau College Student Mathematics Contest, 2025 & 2026
+* **National Scholarship**, 2025
+* **First-Class Scholarship**, Wuhan University
 
-## 🌟 业余爱好 (Hobbies)
+## Miscellaneous
 
-离开书桌和黑板，我也喜欢记录生活和探索世界：
+I use **LaTeX, Lean 4, Python, and MATLAB** in my studies.
+Besides Chinese and English, I have been studying **French** as part of the Sino-French program.
 
-- 📷 **摄影与摄像：** 常用设备 Sony A6000 与 DJI Action 5 Pro。热衷于拍摄星空延时摄影，并喜欢使用 Lightroom/Photoshop 进行 RAW 格式的色彩管理与后期处理。
-- 🎒 **特种兵旅行：** 喜欢规划高效率的周末旅行。
+## Contact
 
----
+**Email:** [2024302011099@whu.edu.cn](mailto:2024302011099@whu.edu.cn)
 
-## 📫 联系方式 (Contact)
-
-- 📧 **Email:** [2024302011099@whu.edu.cn]
-- 📝 **GitHub:** [@HenryWu0728](https://github.com/HenryWu0728)
-
-> *"Life is good for only two things, discovering mathematics and teaching mathematics."*
-> 
+> *Life is good for only two things, discovering mathematics and teaching mathematics.*
 > — Siméon Denis Poisson
